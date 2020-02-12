@@ -45,6 +45,7 @@ public class Main extends Application {
 	 * @param args String.
 	 */
 	public static void main(String[] args) {
+		
 		launch(args);
 		// Upon exit, save the StudyPlanner:
 		MainController.save();

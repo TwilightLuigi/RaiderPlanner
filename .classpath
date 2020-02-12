@@ -13,6 +13,13 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Twili/Downloads/javax.mail.jar" sourcepath="src/edu/wright/cs/raiderplanner/controller"/>
+	<classpathentry kind="lib" path="C:/Users/Twili/Downloads/jaf-1_1_1/jaf-1.1.1/activation.jar" sourcepath="src/edu/wright/cs/raiderplanner/controller"/>
+	<classpathentry kind="lib" path="C:/Users/Twili/Downloads/jar_files/smtp-1.6.2.jar" sourcepath="src/edu/wright/cs/raiderplanner/controller"/>
 	<classpathentry kind="output" path="bin/default"/>
 </classpath>
