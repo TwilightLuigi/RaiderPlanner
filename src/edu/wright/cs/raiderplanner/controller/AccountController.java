@@ -285,7 +285,7 @@ public class AccountController implements Initializable {
 				message.setRecipient(Message.RecipientType.TO,
 						new InternetAddress(email.getText()));
 				message.setSubject("Welcome To RaiderPlanner");
-				message.setText("Hello! " + fullName.getText()
+				message.setText("Hello, " + fullName.getText()
 						+ " we are sending you this email to confirm that you have succussfully "
 						+ " signed"
 						+ " up for RaiderPlanner!" + "\n" + "Happy Studying," + "\n"
