@@ -23,14 +23,11 @@ package edu.wright.cs.raiderplanner.model;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import edu.wright.cs.raiderplanner.model.Task;
-
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
-
 
 /**
  * Created by bijan on 06/05/2017.

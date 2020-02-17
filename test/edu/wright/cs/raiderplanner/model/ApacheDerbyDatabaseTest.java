@@ -25,7 +25,6 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
 import org.apache.derby.jdbc.EmbeddedDriver;
-
 import org.junit.After;
 import org.junit.Test;
 
@@ -35,7 +34,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
-
 
 /**
  * This is my test to see if SQl.

@@ -41,7 +41,6 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.util.ArrayList;
 
-
 /**
  * This is a class to handle the code for the calendar feature.
  * @author MichaelPantoja

@@ -23,7 +23,6 @@ package edu.wright.cs.raiderplanner.controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import edu.wright.cs.raiderplanner.controller.StudyPlannerController;
 import edu.wright.cs.raiderplanner.model.Account;
 import edu.wright.cs.raiderplanner.model.Event;
 import edu.wright.cs.raiderplanner.model.HubFile;
@@ -35,6 +34,8 @@ import edu.wright.cs.raiderplanner.model.VersionControlEntity;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+
 
 import java.util.ArrayList;
 

@@ -21,7 +21,6 @@
 
 package edu.wright.cs.raiderplanner.controller;
 
-import edu.wright.cs.raiderplanner.controller.MainController;
 import edu.wright.cs.raiderplanner.model.Activity;
 import edu.wright.cs.raiderplanner.model.QuantityType;
 import edu.wright.cs.raiderplanner.model.Task;

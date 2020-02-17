@@ -22,9 +22,7 @@
 package edu.wright.cs.raiderplanner.controller;
 
 import edu.wright.cs.raiderplanner.model.Settings;
-
 import javafx.animation.TranslateTransition;
-
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;

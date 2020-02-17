@@ -156,6 +156,7 @@ public class QuantityType extends ModelEntity {
 	 * A toString method used in TableView.
 	 * @return name
 	 */
+	@Override
 	public String toString() {
 		return this.name;
 	}

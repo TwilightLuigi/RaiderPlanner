@@ -32,7 +32,6 @@ import edu.wright.cs.raiderplanner.rest.ResponseProcessor;
 import edu.wright.cs.raiderplanner.util.RaiderException;
 import edu.wright.cs.raiderplanner.view.UiManager;
 import javafx.event.ActionEvent;
-import javafx.scene.Node;
 import javafx.scene.Scene;
 import javafx.scene.control.Accordion;
 import javafx.scene.control.Button;
@@ -51,7 +50,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.ObjectInputStream;
-import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.security.InvalidKeyException;
@@ -67,6 +65,7 @@ import javax.crypto.NoSuchPaddingException;
 import javax.crypto.SealedObject;
 import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
+
 
 
 /**

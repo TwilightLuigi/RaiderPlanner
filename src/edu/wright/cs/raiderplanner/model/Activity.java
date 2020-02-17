@@ -30,15 +30,13 @@ import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Collection;
-import java.util.Locale;
-
 /**
  * An Activity with a duration and an associated list of tasks.
  *
  * @author Zilvinas Ceikauskas
  */
+
 public class Activity extends Event {
 
 	private static final long serialVersionUID = -486727251420646703L;

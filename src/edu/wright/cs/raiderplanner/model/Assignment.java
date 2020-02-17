@@ -25,11 +25,11 @@ import edu.wright.cs.raiderplanner.controller.MainController;
 import edu.wright.cs.raiderplanner.controller.MenuController;
 
 import java.util.ArrayList;
-
 /**
  * PearPlanner/RaiderPlanner.
  * Created by Team BRONZE on 4/27/17
  */
+
 public abstract class Assignment extends VersionControlEntity {
 	protected ArrayList<Task> tasks = new ArrayList<>();
 	protected ArrayList<Requirement> requirements = new ArrayList<>();

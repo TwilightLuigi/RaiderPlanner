@@ -51,6 +51,7 @@ import java.util.Map;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
+
 /**
  * Helper class that contains static methods for working with version control
  * entities.

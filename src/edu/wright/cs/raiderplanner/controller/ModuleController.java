@@ -37,7 +37,6 @@ import javafx.stage.Stage;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-
 /**
  * Created by Nathan Dunn.
  */

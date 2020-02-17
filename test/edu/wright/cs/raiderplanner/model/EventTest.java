@@ -24,14 +24,14 @@ package edu.wright.cs.raiderplanner.model;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import edu.wright.cs.raiderplanner.controller.MainController;
-import edu.wright.cs.raiderplanner.model.Event;
 
 import javafx.stage.Stage;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
-
 import org.testfx.framework.junit.ApplicationTest;
+
+
 
 import java.util.GregorianCalendar;
 

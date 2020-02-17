@@ -27,7 +27,6 @@ import edu.wright.cs.raiderplanner.view.UiManager;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
 import java.io.File;

@@ -24,9 +24,7 @@ package edu.wright.cs.raiderplanner.model;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import edu.wright.cs.raiderplanner.model.ModelEntity;
-import edu.wright.cs.raiderplanner.model.MultilineString;
-import edu.wright.cs.raiderplanner.model.Note;
+
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

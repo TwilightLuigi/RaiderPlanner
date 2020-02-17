@@ -21,9 +21,6 @@
 
 package edu.wright.cs.raiderplanner.rest;
 
-import com.fasterxml.jackson.annotation.JsonCreator;
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 /**Represents user area entity.
  * @author zooko
  *
